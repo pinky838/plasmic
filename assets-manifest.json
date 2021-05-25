@@ -1,0 +1,7 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/heroImage.png": "static/heroImage-cf7f7105bc0f885f167ed7a39434691a.png",
+  "static/profilepic.png": "static/profilepic-34282ccf9255b68e4f9082a8467cd9ca.png",
+  "static/simpleProject.png": "static/simpleProject-69c5091d6233e25e8ef6cb029da8bb65.png"
+}
